@@ -10,7 +10,7 @@ Visualization : Identify pattern and features most common in Diamonds sales and 
 ## Data set :
 https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond
 
-A data frame with 53,940 rows and 10 variables
+A data frame with 53,940 rows and 10 columns(variables)
 
 ## Activities:
 
