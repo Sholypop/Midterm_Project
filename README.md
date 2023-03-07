@@ -1,6 +1,6 @@
 # Midterm_Project
-## Machine Model and DashBoard
-Building a Machine Model to predict Diamonds prices and a DashBord Visualizing Various important features related to Diamond price.
+## Machine Learning and DashBoard
+Building a Model to predict Diamonds prices and a DashBord Visualizing Various important features related to Diamond price.
 
 ## Goal:
 Model : The Project goal is to build a Machine Model that is capable of predicting the prices of Diamonds.
